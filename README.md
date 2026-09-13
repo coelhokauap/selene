@@ -19,7 +19,7 @@ A solução transforma dados provenientes de satélites em informações acessí
 
 # FRONT-END DESIGN
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" />
 
 ---
 
